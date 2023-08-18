@@ -13,7 +13,7 @@ export default function Home() {
         <button className={styles.button}>See Our Works</button>
       </div>
       <div className={styles.bannerItems}>
-        <Image src={Hero} alt='hero' className={styles.bannerImg} />
+        <Image src={Hero} alt='hero' className={styles.bannerImg} priority={true} />
       </div>
     </div>
   )

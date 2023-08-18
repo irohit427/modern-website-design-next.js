@@ -12,6 +12,16 @@ body {
   color: #bbb;
 }
 
+.dark {
+  background-color: #111;
+  color: #bbb;
+}
+
+.light {
+  background-color: white;
+  color: #111;
+}
+
 a {
   text-decoration: none;
   color: #bbb;
