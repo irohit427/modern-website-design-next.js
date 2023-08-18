@@ -12,6 +12,10 @@ body {
   color: #bbb;
 }
 
+.theme {
+  transition: 1s all ease;
+}
+
 .dark {
   background-color: #111;
   color: #bbb;
